@@ -22,7 +22,7 @@
                 data-toggle="dropdown"
                 aria-haspopup="true"
                 aria-expanded="false"
-              >Card Childrens</button>
+              >Page Childrens</button>
               <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
                 <router-link class="nav-link" to="/page/">Card 1</router-link>
                 <router-link class="nav-link" to="/page/child2">Card 2</router-link>
